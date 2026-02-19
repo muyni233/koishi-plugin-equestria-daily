@@ -8,6 +8,7 @@
     "lib",
     "dist"
   ],
+  "homepage": "https://github.com/muyni233/koishi-plugin-equestria-daily",
   "license": "MIT",
   "keywords": [
     "chatbot",
